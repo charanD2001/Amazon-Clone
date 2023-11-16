@@ -17,7 +17,8 @@
 }
 .logo{
     background-image: url('https://pngimg.com/d/amazon_PNG11.png');
-    /* background-size: cover; */
+    /* background-size: cover; */ 
+    /* Dummy */
     height: 30px;
     width: 100px;
 }
